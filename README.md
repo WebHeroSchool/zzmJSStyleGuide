@@ -193,6 +193,7 @@
     }
 
 Использование
+
     var fooBar = new FooBar({ a: "alpha" });
 
     fooBar.options;
